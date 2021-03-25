@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! I am a student at NTNU, currently exchanging at ETH Zürich. I am specializing in robotics and machine learning. I love to work with motivated teams on engaging projects! I have experience from Vortex NTNU and Shift Hyperloop, adn I look forward to participate and contribute to exciting projects in the future.
+Hi! I am a student at NTNU, currently exchanging at ETH Zürich, specializing in robotics and machine learning. I love to work with motivated teams on engaging projects. I have valuable experience from Vortex NTNU and Shift Hyperloop, and I look forward to participate and contribute to exciting projects in the future!
 
 I love robots and the use they can do for us humans. I love to learn about their ways, and I hope to contribute to their development! 🤖
